@@ -1,0 +1,5 @@
+{
+  "name": "Ternary Splitter",
+  "description": "An interactive ternary plot to visualize the split of 100% into three factors.",
+  "requestFramePermissions": []
+}
